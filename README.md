@@ -6,6 +6,8 @@ Applicativo per l'estrazione periodica di informazioni da Twitter su un determin
 `Lanciare la classe GetTweetGUI del package it.romatre.sii`
 
 
+
+
 ![GUI](Immagini/GUI.png)
 
 
